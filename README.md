@@ -10,4 +10,8 @@ Jmeter script for the DVD Store 2 open source test / benchmark tool (https://git
 How to run? 
 To test, we need to copy the JMeterClassesForDS2.jar to /lib/ext of JMeter installation, load the JMX file in JMeter, modify the target with the IP address of a running DS2 JSP web application and run.
 
+How to run JMeter in command line mode?
+jmeter -n -t scriptname.jmx -l results.jtl
+Reference: https://www.blazemeter.com/blog/dear-abby-blazemeter-how-do-i-run-jmeter-non-gui-mode
+
 Work on ds3 JMeter scripts is in progress.
