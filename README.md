@@ -12,6 +12,7 @@ To test, we need to copy the JMeterClassesForDS2.jar to /lib/ext of JMeter insta
 
 How to run JMeter in command line mode?
 jmeter -n -t scriptname.jmx -l results.jtl
-Reference: https://www.blazemeter.com/blog/dear-abby-blazemeter-how-do-i-run-jmeter-non-gui-mode
+
+You can also refer to https://www.blazemeter.com/blog/dear-abby-blazemeter-how-do-i-run-jmeter-non-gui-mode
 
 Work on ds3 JMeter scripts is in progress.
