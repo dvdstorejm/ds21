@@ -16,3 +16,5 @@ jmeter -n -t scriptname.jmx -l results.jtl
 You can also refer to https://www.blazemeter.com/blog/dear-abby-blazemeter-how-do-i-run-jmeter-non-gui-mode
 
 Work on ds3 JMeter scripts is in progress.
+
+Authors: Raghu Ramakrishnan, Arvinder Kaur
